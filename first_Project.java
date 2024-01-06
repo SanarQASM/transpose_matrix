@@ -22,7 +22,7 @@ public class first_Project {//this code used for transpose matrix , dynamic code
             }
 		catch (Exception e) {
 			System.out.println("please Enter correct number!!!");
-			System.out.println("⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝");
+			System.out.println("⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝⨝");
 			get_lenght();
 		}
 	    finally {
